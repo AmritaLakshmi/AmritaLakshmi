@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/f8e69e5fe8ffc96468d4a93eac747974b6cd7ed06dcef7a9d5177ed9ed97a868/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966 )
 <h1 align="center">Hi 👋, I'm V Amrita Lakshmi SabariDas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkyMXR5b3Z6OGJjZW5tM21hN2oybHA1NTBtdW0yczZpNXg3ZnZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritalakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="amritalakshmi" /> </p>
 
